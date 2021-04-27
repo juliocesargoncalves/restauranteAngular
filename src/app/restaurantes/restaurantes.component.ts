@@ -9,6 +9,7 @@ import { RestaurantsService } from './restaurants.service';
   styleUrls: ['./restaurantes.component.css']
 
 })
+
 export class RestaurantesComponent implements OnInit {
 
   restaurants : Restaurant[]
