@@ -20,7 +20,7 @@ export class MenuComponent implements OnInit {
   }
 
   addMenuItem(item : MenuItem){
-    alert(item.name)
+    alert("Adicionando");
   }
 
 }
